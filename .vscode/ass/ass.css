@@ -124,11 +124,11 @@ input{
     height: ;
 } */
 footer{
+    text-align: center;
     clear: both;
     width: 1000px auto;
-    height: 150px;
+    height: 300px;
     background-color: aqua;
-    text-align: center;
 }
 .video{
     width: 100%;
